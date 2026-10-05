@@ -19,49 +19,40 @@
 # 📊 GitHub Stats:
 <!-- ==================== GITHUB STATS ==================== -->
 
-<h2 align="center">
-  GitHub Stats
-</h2>
+<!-- ==================== GITHUB STATS ==================== -->
+
+<h2 align="center">GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PushkarX10&theme=github_dark"
+        width="100%"
+      />
+
+    </td>
+
+    <td width="50%" align="center">
+
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PushkarX10&theme=github_dark"
+        width="100%"
+      />
+
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <sub>Activity • Languages • Contributions</sub>
-</p>
-
-<br>
-
-<div align="center">
-
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PushkarX10&theme=github_dark"
-    width="47%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PushkarX10&theme=github_dark"
-    width="47%"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushkarX10&theme=github_dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
     width="94%"
   />
-
-</div>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=PushkarX10&style=flat-square&color=58A6FF&label=profile+views"
-  />
 </p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><div align="center">
 
 `</>` Built with ❤️ by **Pushkar**
