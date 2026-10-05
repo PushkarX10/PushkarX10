@@ -23,7 +23,12 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## </> Made with ❤️ by Pushkar
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><div align="center">
+
+`</>` Built with ❤️ by **Pushkar**
+
+</div>
+
 
 <!--
 **PushkarX10/PushkarX10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
