@@ -9,7 +9,8 @@
 
 💡 I love turning **complex AI concepts into simple, interactive & user-friendly experiences**
 
-<h2 align="center">🚀 Featured Projects</h2>
+
+# 🚀 Featured Projects
 
 <table width="100%">
 <tr>
