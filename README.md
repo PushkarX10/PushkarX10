@@ -23,6 +23,8 @@
 
 <table align="center">
   <tr>
+
+    <!-- Stats -->
     <td width="50%" align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PushkarX10&theme=github_dark"
@@ -31,25 +33,17 @@
       />
     </td>
 
+    <!-- Top Languages -->
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PushkarX10&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PushkarX10&theme=github_dark"
         width="100%"
-        alt="Most Used Languages"
+        alt="Top Languages"
       />
     </td>
+
   </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=0D1117&color=7D8590&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Contribution%20Activity"
-    width="94%"
-    alt="Contribution Activity"
-  />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><div align="center">
 
