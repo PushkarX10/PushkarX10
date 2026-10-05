@@ -1,5 +1,14 @@
 # 💫 About Me:
-I am an engineering student specializing in Artificial Intelligence and Data Science, fueled by a passion for building the future of the web. My work focuses on the intersection of generative AI and interactive design, where I develop AI-powered websites, autonomous agents, and intelligent assistants. I love experimenting with LLMs to create tools that make digital experiences more intuitive and efficient. Currently, I am expanding my portfolio with projects that bridge the gap between complex data and user-centric applications. Always open to collaborating on innovative AI solutions and exploring new frontiers in tech.
+🔭 I’m currently building **AI-powered web applications, intelligent assistants & autonomous agents**
+
+👯 I’m looking to collaborate on **GenAI, AI agents, developer tools & innovative web projects**
+
+🤝 I’m looking for help with **advanced LLM concepts, agentic AI & scalable AI systems**
+
+🌱 I’m currently learning **Generative AI, LLMs, AI agents & modern full-stack development**
+
+💡 I love turning **complex AI concepts into simple, interactive & user-friendly experiences**
+
 
 
 ## 🌐 Socials:
