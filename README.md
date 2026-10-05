@@ -10,6 +10,105 @@
 💡 I love turning **complex AI concepts into simple, interactive & user-friendly experiences**
 
 
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>
+        🕶️
+        <a href="https://github.com/PushkarX10/Noir-Vortex">
+          Noir-Vortex
+        </a>
+      </h3>
+
+      <p>
+        A modern AI-powered project focused on intelligent,
+        immersive digital experiences.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/AI%2FML-111827?style=flat-square">
+      </p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>
+        🔐
+        <a href="https://github.com/PushkarX10/VaultAudit">
+          VaultAudit
+        </a>
+      </h3>
+
+      <p>
+        Local-first AI expense auditor that analyzes receipts
+        and audits transactions entirely on-device.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>
+        🛰️
+        <a href="https://github.com/PushkarX10/Vigil">
+          Vigil
+        </a>
+      </h3>
+
+      <p>
+        A geospatial community platform for reuniting lost pets
+        and valuables through real-time alerts and messaging.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>
+        🧪
+        <a href="https://github.com/PushkarX10/Kiyo">
+          Kiyo
+        </a>
+      </h3>
+
+      <p>
+        Full-stack quality and compliance platform for
+        pharmaceutical manufacturing with IoT monitoring,
+        lab testing, audits, and supply-chain tracking.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/PushkarX10?tab=repositories">
+    View all repositories →
+  </a>
+</p>
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkarugale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pushkarugale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugale.pushkar10@gmail.com) 
