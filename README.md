@@ -2,7 +2,7 @@
      HERO & HEADER
 ========================================================= -->
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Hero Banner" />
+  <img src="./assets/banner1.jpg" width="100%" alt="Hero Banner" />
 </div>
 
 <h2 align="center">
