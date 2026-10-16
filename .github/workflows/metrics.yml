@@ -8,11 +8,15 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -22,3 +26,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_habits: yes
           config_timezone: Asia/Kolkata
+      - name: Skip metrics generation when token is missing
+        if: ${{ env.METRICS_TOKEN == '' }}
+        run: echo "METRICS_TOKEN is not configured; skipping metrics generation."
