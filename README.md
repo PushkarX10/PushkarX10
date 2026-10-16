@@ -33,20 +33,12 @@
 <!-- =========================================================
      ABOUT ME (Single-Column Table + Right-Floated Sprite)
 ========================================================= -->
-### About me
+### 👨‍💻 ABOUT ME :
 
 <img align="right" src="./assets/about.gif" width="170" alt="Pixel Sprite" />
 
-<table>
-  <tr><td>🎓 <b>Education:</b> AI & Data Science Engineering</td></tr>
-  <tr><td>💻 <b>Focus:</b> AI Systems • Full-Stack • Local-First Architecture</td></tr>
-  <tr><td>🔭 <b>Currently building:</b> Autonomous AI Agents & Edge-AI Tools</td></tr>
-  <tr><td>🛠️ <b>Core Stack:</b> Python • TypeScript • React • Next.js • FastAPI</td></tr>
-  <tr><td>🐧 <b>Environment:</b> VS Code • Cursor • Ollama (On-Device LLMs)</td></tr>
-  <tr><td>🎨 <b>Design:</b> Figma • Dark-Mode UI • Glassmorphism</td></tr>
-  <tr><td>💙 <b>Love to:</b> Code • Design UI • Build Useful Products</td></tr>
-</table>
 
+I'm Pushkar, a developer who enjoys turning ideas into practical and meaningful software. I'm interested in AI, full-stack development, automation, cloud technologies, and building intelligent systems that can solve real-world problems. I enjoy exploring new technologies and experimenting with AI agents, modern development tools, and different approaches to software engineering. Most of my projects come from ideas that I want to turn into something functional, whether it's an AI-powered system, a developer tool, or a product designed for everyday use. I believe the best way to learn is by building, breaking, improving, and shipping and I'm always looking for the next interesting problem to work on.
 <br clear="both" />
 <hr />
 
