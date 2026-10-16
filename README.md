@@ -11,11 +11,11 @@
 </h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pushkarugale" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/1183297120728530977" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="28" height="28" alt="Discord" />
   </a>
   &nbsp;
@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ugale.pushkar10@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="28" height="28" alt="Email" />
   </a>
 </div>
@@ -54,7 +54,7 @@
      STATS & ANIME COUNTER (Split Layout with Right Render)
 ========================================================= -->
 <div>
-  <img align="right" src="./assets/character.jpg" width="290" alt="Character Render" />
+  <img align="right" src="./assets/character.png" width="290" alt="Character Render" />
 
   <div align="center">
     <!-- Anime Moe Counter -->
