@@ -54,7 +54,7 @@
      STATS & ANIME COUNTER (Split Layout with Right Render)
 ========================================================= -->
 <div>
-  <img align="right" src="./assets/character.png" width="290" alt="Character Render" />
+  <img align="right" src="./assets/character1.svg" width="290" alt="Character Render" />
 
   <div align="center">
     <!-- Anime Moe Counter -->
