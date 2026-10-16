@@ -67,17 +67,15 @@ I'm Pushkar, a developer who enjoys turning ideas into practical and meaningful 
      LOWLIGHTER METRICS & ISOMETRIC CALENDAR
 ========================================================= -->
 <div align="center">
-  <!-- Generated via GitHub Actions (See Workflow Below) or hosted via metrics.lecoq.io -->
-  <img src="https://metrics.lecoq.io/PushkarX10?template=classic&isocalendar=true&isocalendar.duration=half-year&languages=true&languages.limit=4&activity=true&activity.limit=5&achievements=true&config.timezone=Asia%2FKolkata" width="85%" alt="Detailed Metrics" />
+  <img src="./github-metrics.svg" width="95%" alt="Detailed Metrics" />
 </div>
-
 <br />
 
 <!-- =========================================================
      CONTRIBUTION GRAPH (Monochrome Dark Theme)
 ========================================================= -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=0d1117&color=c9d1d9&line=ffffff&point=58a6ff&area=true&area_color=1f242d&hide_border=true&custom_title=Pushkar's%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Pushkar's%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 </div>
 
 <hr />
