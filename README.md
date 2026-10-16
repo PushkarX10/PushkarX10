@@ -74,10 +74,7 @@ I'm Pushkar, a developer who enjoys turning ideas into practical and meaningful 
 <!-- =========================================================
      CONTRIBUTION GRAPH (Monochrome Dark Theme)
 ========================================================= -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Pushkar's%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
-</div>
-
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarX10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Pushkar's%2520Contribution%2520Graph" width="98%" alt="Contribution Graph" /></div>
 <hr />
 
 <!-- =========================================================
