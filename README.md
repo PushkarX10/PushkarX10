@@ -108,43 +108,145 @@
 <!-- =========================================================
      SELECTED PROJECTS (Styled in Reference Card Format)
 ========================================================= -->
-<h3 align="center">🚀 Selected Projects 🚀</h3>
+<!-- ========================= PROJECTS ========================= -->
 
 <div align="center">
-  <a href="https://github.com/PushkarX10/Noir-Vortex">
-    <img src="./assets/projects-showcase.svg" width="92%" alt="Selected Projects Dashboard" />
-  </a>
+
+## 🚀 Featured Projects
+
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/PushkarX10/Noir-Vortex">Noir</a> — Autonomous Multi-Agent Engine</h4>
-      <p>A terminal-native AI system that coordinates specialized agents for research, scriptwriting, design, auditing, and publishing.</p>
-      <code>Python</code> <code>LangGraph</code> <code>Multi-Agent Systems</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/PushkarX10">VaultAudit</a> — Privacy-First Financial OS</h4>
-      <p>A local-first financial intelligence operating system performing OCR, PII masking, and agentic auditing strictly on-device.</p>
-      <code>React</code> <code>PGLite</code> <code>Ollama</code> <code>Tesseract.js</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 <a href="https://github.com/PushkarX10">Vigil</a> — Hyper-Local Lost & Found Network</h4>
-      <p>A geospatial platform connecting people who find lost pets or valuables with their owners using real-time radius alerts.</p>
-      <code>React Native</code> <code>Expo</code> <code>Supabase</code> <code>PostGIS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧪 <a href="https://github.com/PushkarX10">Kiyo</a> — Pharma Quality & Compliance</h4>
-      <p>Full-stack pharmaceutical quality control platform featuring real-time IoT sensor monitoring, defect detection, and compliance reporting.</p>
-      <code>React</code> <code>Node.js</code> <code>IoT</code> <code>AI Vision</code>
-    </td>
-  </tr>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧠 Noir
+
+<a href="https://github.com/PushkarX10/Noir-Vortex">
+<img src="https://github.com/PushkarX10/Noir-Vortex/raw/main/assets/banner.png"
+     width="100%"
+     alt="Noir"/>
+</a>
+
+**Autonomous Multi-Agent Content Engine**
+
+Python • LangGraph • AI Agents • CLI
+
+A terminal-native system that orchestrates specialized AI agents for research, writing, scripting, design, auditing and publishing.
+
+<br>
+
+<a href="https://github.com/PushkarX10/Noir-Vortex">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔐 Vault Audit
+
+<a href="YOUR_VAULT_AUDIT_REPO">
+<img src="YOUR_VAULT_AUDIT_BANNER"
+     width="100%"
+     alt="Vault Audit"/>
+</a>
+
+**Privacy-first Financial Intelligence**
+
+React • AI • Local-first
+
+A privacy-focused financial auditing system designed around keeping sensitive financial data local while providing intelligent analysis.
+
+<br>
+
+<a href="YOUR_VAULT_AUDIT_REPO">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📍 Vigil
+
+<a href="YOUR_VIGIL_REPO">
+<img src="YOUR_VIGIL_BANNER"
+     width="100%"
+     alt="Vigil"/>
+</a>
+
+**Hyper-Local Lost & Found Network**
+
+React Native • Expo • Supabase • PostGIS
+
+A geospatial platform connecting people who find lost pets and valuables with their owners through location-aware alerts and communication.
+
+<br>
+
+<a href="YOUR_VIGIL_REPO">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧪 Kiyo
+
+<a href="YOUR_KIYO_REPO">
+<img src="YOUR_KIYO_BANNER"
+     width="100%"
+     alt="Kiyo"/>
+</a>
+
+**Pharmaceutical Quality & Compliance Platform**
+
+React • Node.js • IoT • Compliance
+
+A full-stack platform for quality monitoring, laboratory testing, regulatory auditing and supply-chain tracking.
+
+<br>
+
+<a href="YOUR_KIYO_REPO">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
 </table>
 
-<hr />
+<br>
 
+<div align="center">
+
+<a href="https://github.com/PushkarX10?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 <!-- =========================================================
      AI & SYSTEMS + CURRENTLY BUILDING (Reference Bottom Card Style)
 ========================================================= -->
