@@ -2,7 +2,7 @@
      HERO & HEADER
 ========================================================= -->
 <div align="center">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Hero Banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="Hero Banner" />
 </div>
 
 <h2 align="center">
@@ -35,7 +35,7 @@
 ========================================================= -->
 ### About me
 
-<img align="right" src="./assets/about-sprite.svg" width="170" alt="Pixel Sprite" />
+<img align="right" src="./assets/about.gif" width="170" alt="Pixel Sprite" />
 
 <table>
   <tr><td>🎓 <b>Education:</b> AI & Data Science Engineering</td></tr>
@@ -54,7 +54,7 @@
      STATS & ANIME COUNTER (Split Layout with Right Render)
 ========================================================= -->
 <div>
-  <img align="right" src="./assets/character-render.png" width="290" alt="Character Render" />
+  <img align="right" src="./assets/character.jpg" width="290" alt="Character Render" />
 
   <div align="center">
     <!-- Anime Moe Counter -->
