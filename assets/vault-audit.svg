@@ -1,0 +1,10 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><pattern id="g" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="390" rx="16" fill="#080A0D"/><rect width="1200" height="390" rx="16" fill="url(#g)"/>
+<text x="48" y="48" fill="#5E656D" font-family="monospace" font-size="12" letter-spacing="3">04 / SELECTED WORK</text>
+<text x="48" y="96" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700">VAULT AUDIT</text>
+<text x="48" y="126" fill="#9AA1AA" font-family="monospace" font-size="13">PRIVACY-FIRST FINANCIAL INTELLIGENCE</text>
+<g font-family="monospace" font-size="12" fill="#D8DCE1"><text x="680" y="132" fill="#646B74">TRANSACTION STREAM</text><text x="680" y="166">₹ 2,400</text><text x="680" y="194">₹ 850</text><text x="680" y="222">₹ 12,400</text><text x="680" y="250">₹ 340</text><path d="M800 160H920M800 188H900M800 216H950M800 244H875" stroke="#fff" stroke-opacity=".35"/><text x="960" y="205" fill="#fff">ANALYZE</text><path d="M925 205H955" stroke="#fff"><animate attributeName="stroke-dasharray" values="0,30;30,0" dur="1.5s" repeatCount="indefinite"/></path></g>
+<text x="48" y="348" fill="#777F89" font-family="monospace" font-size="12">Local-first · AI · React · Data Analysis</text>
+<rect x="1000" y="322" width="150" height="34" rx="17" stroke="#fff" stroke-opacity=".25"/><text x="1075" y="344" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11">VIEW PROJECT ↗</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="360" rx="16" fill="#080A0D"/>
+<text x="48" y="52" fill="#646B74" font-family="monospace" font-size="12" letter-spacing="3">06 / TOOLBOX</text>
+<text x="48" y="92" fill="#fff" font-family="Arial" font-size="28" font-weight="700">THE THINGS I BUILD WITH</text>
+<g font-family="monospace" font-size="13">
+<text x="70" y="142" fill="#646B74">LANGUAGES</text><text x="70" y="170" fill="#fff">Python   TypeScript   JavaScript   C++</text>
+<text x="70" y="220" fill="#646B74">AI / SYSTEMS</text><text x="70" y="248" fill="#fff">LangGraph   AI Agents   LLMs   Local AI   Automation</text>
+<text x="650" y="142" fill="#646B74">FRONTEND</text><text x="650" y="170" fill="#fff">React   React Native   Next.js   Tailwind</text>
+<text x="650" y="220" fill="#646B74">BACKEND / INFRA</text><text x="650" y="248" fill="#fff">Node.js   FastAPI   Supabase   PostgreSQL   AWS   Docker</text>
+</g>
+<rect x="48" y="294" width="1104" height="1" fill="#fff" opacity=".08"/>
+<circle cx="1080" cy="326" r="4" fill="#fff"><animate attributeName="opacity" values=".15;1;.15" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="48" y="330" fill="#555D66" font-family="monospace" font-size="11">ACTIVE TOOLCHAIN / CONTINUOUSLY EVOLVING</text>
+</svg>
