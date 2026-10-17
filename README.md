@@ -5,9 +5,9 @@
   <img src="./assets/banner1.jpg" width="100%" alt="Hero Banner" />
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> 
-  Hi, I'm <span style="color: #58a6ff;">Pushkar!</span>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://github.com/PushkarX10" style="text-decoration: none;">Pushkar!</a>
 </h2>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <img align="right" src="./assets/about.gif" width="170" alt="Pixel Sprite" />
 
 
-I'm Pushkar, a developer who enjoys turning ideas into practical and meaningful software. I'm interested in AI, full-stack development, automation, cloud technologies, and building intelligent systems that can solve real-world problems. I enjoy exploring new technologies and experimenting with AI agents, modern development tools, and different approaches to software engineering. Most of my projects come from ideas that I want to turn into something functional, whether it's an AI-powered system, a developer tool, or a product designed for everyday use. I believe the best way to learn is by building, breaking, improving, and shipping and I'm always looking for the next interesting problem to work on.
+I'm a developer who likes building things that feel a little ahead of the curve. My work revolves around **AI, autonomous agents, and full-stack systems**, with a focus on turning complex ideas into usable products. I've built everything from multi-agent AI systems and privacy first applications to geospatial platforms and enterprise focused solutions. I'm constantly experimenting with **LLMs, Generative AI, agentic workflows, and modern software architecture** learning by building and turning ambitious ideas into working systems.
 <br clear="both" />
 <hr />
 
