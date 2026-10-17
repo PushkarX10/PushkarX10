@@ -50,3 +50,19 @@ jobs:
           plugin_habits_charts: yes
 
           filename: github-metrics.svg
+
+      - name: Generate Isometric Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: .github/assets/contribution-calendar.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: PushkarX10
+
+          base: ""
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          output_action: commit
