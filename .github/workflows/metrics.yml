@@ -37,20 +37,19 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_followup: yes
-
           plugin_repositories: yes
-          plugin_repositories_featured: PushkarX10/PushkarX10
+          plugin_repositories_featured: 4
 
           plugin_issues: yes
+
           plugin_pull_requests: yes
 
           plugin_stars: yes
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
-          plugin_commits: yes
-          plugin_commits_authoring: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
           output: .github/assets/metrics-stats.svg
