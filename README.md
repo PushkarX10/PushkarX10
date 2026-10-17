@@ -45,24 +45,21 @@ I'm Pushkar, a developer who enjoys turning ideas into practical and meaningful 
 <!-- =========================================================
      STATS & ANIME COUNTER (Split Layout with Right Render)
 ========================================================= -->
-<div>
- <img align="right" src="./assets/character1.svg" width="285" style="mix-blend-mode: screen;" alt="Character Render" />
+<img align='right' width="260" src='https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/kenkankei_cmp.png' alt="Character Art">
 
-  <div align="center">
-    <!-- Anime Moe Counter -->
-    <img src="https://count.getloli.com/@PushkarX10?name=PushkarX10&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
-    <br /><br />
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=PushkarX10&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="56%" alt="GitHub Stats" />
-    <br />
-    <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkarX10&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" width="56%" alt="GitHub Streak" />
-  </div>
-</div>
+<p align="center">
+  <br/><br/>
+  <!-- Pixelated Visitor Counter (matches your username PushkarX10) -->
+  <img src='https://count.getloli.com/@PushkarX10?name=PushkarX10&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px" alt="Visitor Counter">
+  
+  <!-- GitHub Stats Card (Customized with your name "Pushkar Ugale") -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PushkarX10&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&custom_title=Pushkar%20Ugale's%20GitHub%20Stats" width="400px" alt="GitHub Stats">
+  
+  <!-- GitHub Streak Stats Card -->
+  <img height="170" src="https://streak-stats.demolab.com?user=PushkarX10&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px" alt="GitHub Streak">
+</p>
 
 <br clear="both" />
-<br />
-
 <!-- =========================================================
      LOWLIGHTER METRICS & ISOMETRIC CALENDAR
 ========================================================= -->
