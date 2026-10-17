@@ -231,16 +231,7 @@ A full-stack platform for quality monitoring, laboratory testing, regulatory aud
 </a>
 
 </div>
-<!-- =========================================================
-     AI & SYSTEMS + CURRENTLY BUILDING (Reference Bottom Card Style)
-========================================================= -->
-<h3 align="center">💻 Systems & Active Architecture 💻</h3>
 
-<div align="center">
-  <img src="./assets/systems-telemetry.svg" width="85%" alt="Systems & Build Telemetry" />
-</div>
-
-<hr />
 
 <div align="center">
   <sub>Made with 🖤 by <a href="https://github.com/PushkarX10">Pushkar</a></sub>
